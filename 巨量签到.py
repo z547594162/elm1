@@ -19,9 +19,9 @@ import urllib3
 from urllib3.exceptions import InsecureRequestWarning
 
 urllib3.disable_warnings(InsecureRequestWarning)
-token = "填写token"
-username = "填入你的巨量账号"
-password = "填入你的巨量密码"
+token = "5be74f03d132c71fb2c3e4eabd94790a"
+username = "19198079436"
+password = "zhang123"
 
 def jl_login(username, password):
     url = "https://www.juliangip.com/login/go"
