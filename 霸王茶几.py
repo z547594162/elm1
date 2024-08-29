@@ -14,9 +14,9 @@ import time
 import json
 from urllib.parse import urlparse, parse_qs
 #抓的数据放下面
-token=''
-activityId=''
-appid=''
+token='FPjxVeID9xnCFUga3uXRfvEcyEO8xk9RaNUAtV6BCwOndJnumLwa-VRZ126FeK0r'
+activityId='947079313798000641'
+appid='wxafec6f8422cb357b'
 
 print('------霸王茶姬签到------')
 url1='https://webapi2.qmai.cn/web/cmk-center/sign/takePartInSign'
