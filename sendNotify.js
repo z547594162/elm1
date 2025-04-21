@@ -67,7 +67,7 @@ const push_config = {
 
   QYWX_KEY: '', // 企业微信机器人的 webhook(详见文档 https://work.weixin.qq.com/api/doc/90000/90136/91770)，例如：693a91f6-7xxx-4bc4-97a0-0ec2sifa5aaa
 
-  TG_BOT_TOKEN: '6797056254:AAGZoNN73RWRfKjqJWfiexA9TA-_Hw5ryNg', // tg 机器人的 TG_BOT_TOKEN，例：1407203283:AAG9rt-6RDaaX0HBLZQq0laNOh898iFYaRQ
+  TG_BOT_TOKEN: '6797056254:AAGr1wMh0Qym9VfEEjHZYqasHvLv7UYsj5U', // tg 机器人的 TG_BOT_TOKEN，例：1407203283:AAG9rt-6RDaaX0HBLZQq0laNOh898iFYaRQ
   TG_USER_ID: '5007707926', // tg 机器人的 TG_USER_ID，例：1434078534
   TG_API_HOST: 'https://api.telegram.org', // tg 代理 api
   TG_PROXY_AUTH: '', // tg 代理认证参数
